@@ -19,3 +19,7 @@ To get started with Rapid WhatsApp, follow these steps:
 ## Contributing
 
 If you would like to contribute to Rapid WhatsApp, please feel free to fork this repository and submit a pull request. Contributions are always welcome and appreciated.
+
+## 👨‍💻 Author
+
+Developed with ❤️ by [Deepak Kumar](https://github.com/Deepakcode607)
